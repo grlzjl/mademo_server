@@ -1,0 +1,10 @@
+{
+  "reportId": "1",
+  "generationTime": "2021-01-01 13:28:28",
+  "suspectId": "a1b2c3d4",
+  "reporterId": "b44c9d78",
+  "longitude": 116.311,
+  "latitude": 39.990,
+  "errorType": "SELF",
+  "errorCode": "01"
+}
